@@ -2,7 +2,7 @@
 
 [DonSeTch](https://github.com/dondai44423/donsetch) (AGPL-3.0) — a web access MCP server for AI agents in one Rust binary: `web_fetch` (URL to clean markdown, PDFs, in-process JS), keyless `web_search` aggregation, `web_crawl` site digests, plus OCR. No API keys required. Deploy it on Railway with one click and point any MCP client at it over streamable HTTP.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/Ar63bq)
 
 ## What this template runs
 
